@@ -11,5 +11,3 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko-tarou&layout=compact)
-### Languages
-![Custom Languages](https://raw.githubusercontent.com/username/username/main/languages.svg)
